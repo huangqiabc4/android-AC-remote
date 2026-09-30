@@ -2,6 +2,8 @@
 
 一个用手机自带红外发射器（IR Blaster）控制格力空调的 Android App。用 Jetpack Compose 写的单页遥控界面，按下按键即刻发射红外码，并支持按键音与状态记忆。
 
+<img src="docs/screenshot-main.png" width="300" alt="遥控器主界面">
+
 ## 功能
 
 - 开关机、温度调节（16 ℃ ~ 30 ℃）
